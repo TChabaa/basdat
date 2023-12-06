@@ -10,7 +10,7 @@ VALUES ( N'19660807 199212 2 001', N'FAUZIAH HANUM HARAHAP. SH., MH', N'Pembina 
 
 INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register, Jenis)
 VALUES (N'903/Pdt.G/2022/PN JKT.SEL',N'Wanprestasi', N'2022-07-14', N'Perdata');
-INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register)
+INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register, Jenis)
 VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'Narkotika', N'2022-05-04', N'Pidana');
 
 INSERT INTO PIDANA
@@ -169,11 +169,8 @@ Dirampas Untuk Negara
 6.  Membebankan Para Terdakwa untuk membayar biaya perkara masing-masing sebesar Rp.2.000,- (dua  ribu  rupiah);', N'Diterima', N'263/Pid.Sus/2022/PN JKT.SEL', N'P2-91543' );
 
 INSERT INTO SIDANG 
-VALUES (N'01/640/Pdt.G/2022/PN JKT.SEL', N'2022-08-08', N'SIDANG PERTAMA', N'Ruang Sidang 02',N'19:00:00');
+VALUES (N'01/640/Pdt.G/2022/PN JKT.SEL', N'2022-08-08', N'SIDANG PERTAMA', N'Ruang Sidang 02',N'19:00:00', N'640/Pdt.G/2022/PN JKT.SEL');
 
 INSERT INTO RIWAYAT
-VALUES (N'01/01/640/Pdt.G/2022/PN JKT.SEL',N'2022-07-18',N'Pendaftaran Perkara', N'Pendaftaran Perkara');
+VALUES (N'01/01/640/Pdt.G/2022/PN JKT.SEL',N'2022-07-18',N'Pendaftaran Perkara', N'Pendaftaran Perkara', N'640/Pdt.G/2022/PN JKT.SEL');
 
-UPDATE PERKARA
-SET No_Sidang = N'01/640/Pdt.G/2022/PN JKT.SEL' , No_Surat = N'01/01/640/Pdt.G/2022/PN JKT.SEL'
-WHERE No_Perkara = N'640/Pdt.G/2022/PN JKT.SEL'
