@@ -8,10 +8,10 @@ VALUES (N'19741214 200112 1 001', N'HENDRA YURISTIAWAN, SH., MH', N' Pembina Tin
 INSERT INTO HAKIM
 VALUES ( N'19660807 199212 2 001', N'FAUZIAH HANUM HARAHAP. SH., MH', N'Pembina Utama Madya (IV/d)', N'011391');
 
+INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register, Jenis)
+VALUES (N'903/Pdt.G/2022/PN JKT.SEL',N'Wanprestasi', N'2022-07-14', N'Perdata');
 INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register)
-VALUES (N'903/Pdt.G/2022/PN JKT.SEL',N'Wanprestasi', N'2022-07-14');
-INSERT INTO PERKARA (No_Perkara, Klasifikasi_Perkara, Tanggal_Register)
-VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'Narkotika', N'2022-05-04');
+VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'Narkotika', N'2022-05-04', N'Pidana');
 
 INSERT INTO PIDANA
 VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'MENUNTUT
@@ -47,7 +47,7 @@ KEDUA
 --- Perbuatan para terdakwa merupakan tindak pidana sebagaimana diatur dan diancam pidana dalam pasal 112 ayat (1) Jo 132 ayat (1) Undang-Undang RI No.  35 tahun 2009 tentang Narkotika.');
 
 INSERT INTO PERDATA
-VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'DALAM PROVISI:
+VALUES (N'903/Pdt.G/2022/PN JKT.SEL',N'Wanprestasi', N'DALAM PROVISI:
 Menyatakan demi hukum selama proses perkara berlangsung sampai adanya putusan hukum yang berkekuatan hukum tetap, memerintahkan Tergugat tidak melakukan perhitungan penambahan jumlah bunga dan denda serta tidak melakukan penagihan kepada Penggugat.
 Menyatakan putusan dapat dijalankan terlebih dahulu meskipun ada upaya hukum banding, kasasi maupun perlawanan.
 
