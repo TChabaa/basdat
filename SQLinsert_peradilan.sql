@@ -66,7 +66,7 @@ Menghukum Tergugat untuk membayar kerugian Immateriil kepada Penggugat sebesar R
 Menghukum Tergugat untuk membayar biaya perkara yang timbul akibat perkara ini;', N'Tidak');
 
 INSERT INTO JAKSA_PENUNTUN_UMUM
-VALUES (N'03138910021', N'GUNTUR GANI PRAKOSO., SH', N'081990012890');
+VALUES (N'03138910021', N'GUNTUR GANI PRAKOSO., SH', N'081990012890', N'Kejaksaan Negeri Jakarta Selatan');
 
 INSERT INTO SAKSI
 VALUES (N'7732902121', N'Saksi', N'Jl. Imam Bonjol, 45 002/003 Cilandak, Jakarta Selatan',N'Asep Nuryadin', N'263/Pid.Sus/2022/PN JKT.SEL');
