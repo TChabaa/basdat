@@ -169,8 +169,7 @@ Dirampas Untuk Negara
 6.  Membebankan Para Terdakwa untuk membayar biaya perkara masing-masing sebesar Rp.2.000,- (dua  ribu  rupiah);', N'Diterima', N'263/Pid.Sus/2022/PN JKT.SEL', N'P2-91543' );
 
 INSERT INTO SIDANG 
-VALUES (N'01/640/Pdt.G/2022/PN JKT.SEL', N'2022-08-08', N'SIDANG PERTAMA', N'Ruang Sidang 02',N'19:00:00', N'640/Pdt.G/2022/PN JKT.SEL');
+VALUES (N'01/263/Pid.Sus/2022/PN JKT.SEL', N'2022-08-08', N'SIDANG PERTAMA', N'Ruang Sidang 02',N'19:00:00', N'263/Pid.Sus/2022/PN JKT.SEL');
 
 INSERT INTO RIWAYAT
-VALUES (N'01/01/640/Pdt.G/2022/PN JKT.SEL',N'2022-07-18',N'Pendaftaran Perkara', N'Pendaftaran Perkara', N'640/Pdt.G/2022/PN JKT.SEL');
-
+VALUES (N'01/01/263/Pid.Sus/2022/PN JKT.SEL',N'2022-07-18',N'Pendaftaran Perkara', N'Pendaftaran Perkara', N'263/Pid.Sus/2022/PN JKT.SEL');
