@@ -47,7 +47,7 @@ KEDUA
 --- Perbuatan para terdakwa merupakan tindak pidana sebagaimana diatur dan diancam pidana dalam pasal 112 ayat (1) Jo 132 ayat (1) Undang-Undang RI No.  35 tahun 2009 tentang Narkotika.');
 
 INSERT INTO PERDATA
-VALUES (N'903/Pdt.G/2022/PN JKT.SEL',N'Wanprestasi', N'DALAM PROVISI:
+VALUES (N'903/Pdt.G/2022/PN JKT.SEL', N'DALAM PROVISI:
 Menyatakan demi hukum selama proses perkara berlangsung sampai adanya putusan hukum yang berkekuatan hukum tetap, memerintahkan Tergugat tidak melakukan perhitungan penambahan jumlah bunga dan denda serta tidak melakukan penagihan kepada Penggugat.
 Menyatakan putusan dapat dijalankan terlebih dahulu meskipun ada upaya hukum banding, kasasi maupun perlawanan.
 
