@@ -135,10 +135,10 @@ INSERT INTO TERDAKWA
 VALUES (N'P2-91543');
 
 INSERT INTO  DIAJUKAN
-VALUES (N'S1-91002', N'263/Pid.Sus/2022/PN JKT.SEL');
+VALUES (N'S1-91002', N'903/Pdt.G/2022/PN JKT.SEL');
 
 INSERT INTO DIGUGAT
-VALUES (N'S2-91455', N'263/Pid.Sus/2022/PN JKT.SEL');
+VALUES (N'S2-91455', N'903/Pdt.G/2022/PN JKT.SEL');
 
 INSERT INTO MENUNTUT
 VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'P2-91543');
@@ -146,11 +146,11 @@ INSERT INTO MENUNTUT
 VALUES (N'263/Pid.Sus/2022/PN JKT.SEL', N'P2-90323');
 
 INSERT INTO PUTUSAN_PERDATA
-VALUES (N'01/12/640/Pdt.G/2022/PN JKT.SEL', N'2022-09-19', N'Rp 0,00', N'MENETAPKAN :
+VALUES (N'01/12/903/Pdt.G/2022/PN JKT.SEL', N'2022-09-19', N'Rp 0,00', N'MENETAPKAN :
 Mengabulkan permohonan Penggugat tentang Pencabutan Perkara tersebut;
 Menyatakan perkara perdata Register Nomor 640/Pdt.G/2022/PN.Jkt.Sel. yang diterima dan didaftarkan di Kepaniteraan Pengadilan Negeri Jakarta Selatan dicabut;
 Memerintahkan Panitera Pengadilan Negeri Jakarta Selatan untuk mencatatkan  pencabutan perkara perdata Register Nomor 640/Pdt.G/2022/PN.Jkt.Sel di Register yang tersedia untuk itu;
-Menghukum Penggugat untuk membayar biaya yang timbul dalam perkara ini sejumlah Rp. 725.000,- (tujuh ratus dua puluh lima ribu rupiah);', N'Tidak', N'BERKAS DIKIRIM KE ARSIP PADA TANGGAL 07-12-2022', N'2022-09-27', N'4', N'263/Pid.Sus/2022/PN JKT.SEL');
+Menghukum Penggugat untuk membayar biaya yang timbul dalam perkara ini sejumlah Rp. 725.000,- (tujuh ratus dua puluh lima ribu rupiah);', N'Tidak', N'BERKAS DIKIRIM KE ARSIP PADA TANGGAL 07-12-2022', N'2022-09-27', N'4', N'903/Pdt.G/2022/PN JKT.SEL');
 
 INSERT INTO PUTUSAN_PIDANA
 VALUES (N'01/12/263/Pid.Sus/2022/PN JKT.SEL', N'2022-06-29', N'MENGADILI
@@ -173,3 +173,4 @@ VALUES (N'01/263/Pid.Sus/2022/PN JKT.SEL', N'2022-08-08', N'SIDANG PERTAMA', N'R
 
 INSERT INTO RIWAYAT
 VALUES (N'01/01/263/Pid.Sus/2022/PN JKT.SEL',N'2022-07-18',N'Pendaftaran Perkara', N'Pendaftaran Perkara', N'263/Pid.Sus/2022/PN JKT.SEL');
+
