@@ -86,6 +86,7 @@ CREATE TABLE PERKARA (
     No_Perkara NVARCHAR(128),
     Klasifikasi_Perkara NVARCHAR(128),
     Tanggal_Register DATE,
+    Jenis NVARCHAR(128),
     No_Sidang NVARCHAR(128),
     Id_Pengadilan_Asal NVARCHAR(128),
     Id_Pengadilan_Banding NVARCHAR(128),
